@@ -1,0 +1,9 @@
+{
+  "name": "Household Tracker",
+  "short_name": "Household",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#f5f7f4",
+  "icons": []
+}
